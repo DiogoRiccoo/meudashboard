@@ -21,6 +21,11 @@ Os dados foram obtidos da **API do IBGE (SIDRA)**, que fornece informações eco
 - **Power BI**: Ferramenta para criação do dashboard interativo.
 - **API do IBGE**: Coleta de dados oficiais de inflação.
 - **Excel/CSV**: Tratamento prévio dos dados (se necessário).
+- --
+--
+Conexão Com API WEB 
+![API do Sidra.ibge.gov](https://snipboard.io/sISQop.jpg)
+--
 
 ## 📷 DASHBOARD
 --
