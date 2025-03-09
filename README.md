@@ -2,7 +2,7 @@
 # 📊 Dashboard de Indicadores Econômicos - IPCA & INPC
 
 O projeto apresenta um painel interativo construído no **Power BI** com conexão API para análise dos principais indicadores de inflação do Brasil: **IPCA (Índice de Preços ao Consumidor Amplo)** e **INPC (Índice Nacional de Preços ao Consumidor)**.
-Resolvi fazer do ano de 1997 até o ano 2021!
+Resolvi fazer do ano de 1998 até o ano 2021!
 ## 🚀 Funcionalidades
 
 - **Visualização da evolução do IPCA e INPC** ao longo dos anos.
