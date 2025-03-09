@@ -20,7 +20,7 @@ Os dados foram obtidos da **API do IBGE (SIDRA)**, que fornece informações eco
 
 - **Power BI**: Ferramenta para criação do dashboard interativo.
 - **API do IBGE**: Coleta de dados oficiais de inflação.
-- **Excel/CSV**: Tratamento prévio dos dados.
+   Dax para tratamento das tabelas.
 - --
 --
 Conexão Com API WEB 
